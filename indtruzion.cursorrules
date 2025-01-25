@@ -1,0 +1,11 @@
+//Scanfolder
+
+
+//stile
+ogni compoente deve avere un file .module.scss
+nel file componente deve essere importato n questo mdoo "Import styles from './page.module.scss'" e nel div deve essereusato in questo modo className={styles.nomefile}
+
+en el archivo scss deben llamarse las clases como camelCase
+//chiamata api
+
+

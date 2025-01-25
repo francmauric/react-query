@@ -1,0 +1,22 @@
+.modalContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px;
+    h3{
+        margin: 0;
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+}
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    .buttonContainer{
+        display: flex;
+        justify-content: flex-end;
+        gap: 10px;
+    }
+    
+}
