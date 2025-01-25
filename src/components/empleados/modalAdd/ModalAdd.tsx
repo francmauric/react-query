@@ -68,7 +68,7 @@ export const ModalAdd = () => {
 
             <Formik
                 initialValues={{
-                    nombre: '',
+                    nombre: 's',
                     edad: 0,
                     puesto: ''
                 }}
